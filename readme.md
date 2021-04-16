@@ -1,5 +1,6 @@
 **Upload from a Linux server:**
 
+git init
 git add "The file"
 git commit -m "description"
 if not add the repo:
