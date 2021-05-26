@@ -4,10 +4,11 @@ git add "The file"
 git commit -m "description"  
 
 if not add the repo:  
-  git remote add origin  
+&emsp; git remote add origin  
 git push -u origin master  
 
 Benefit: view changes, can backtrack to the previous changes  
+
 
 *Create a repo in the web:*  
 
