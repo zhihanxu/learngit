@@ -2,7 +2,7 @@
 
 git init
 
-git add "The file"
+git add "The file" // git add .
 
 git commit -m "description"
 
